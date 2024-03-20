@@ -2,6 +2,8 @@
 Pig Game Rules:
 Objective:
 The goal of the Pig Game is to be the first player to reach a certain number of points, usually 100.
+Display:
+![Screen Shot 2024-03-20 at 4 38 55 PM](https://github.com/scarlett7662/Pig-Game/assets/64765540/852105f9-23c7-4f08-aa7e-4191056ae7ed)
 
 Gameplay:
 The game is typically played with two players.
